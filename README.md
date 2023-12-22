@@ -35,8 +35,8 @@
 <summary><b>LONG READ DISCLAIMER</b></summary>
 
 ## INSTALLATION (Arch Based Only)
-
-##### First of all, this is a cute disclaimer. All of this settings are installed in Artix and in wayland only! I don't know how it work in other distro.
+## This fork is mostly for my personal use
+##### Run "arch.sh" - add more tools later if needed
 
 <div align="left">
 
