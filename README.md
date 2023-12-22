@@ -1,18 +1,9 @@
-- **Window Manager** • [Hyprland](https://github.com/hyprwm/Hyprland)🎨 Tiles
-  Everywhere!
-- **Shell** • [Zsh](https://www.zsh.org) 🐚 con
-  [starship](https://github.com/starship/starship) Cross Shell Platform!
-- **Terminal** • [WezTerm](https://github.com/wez/wezterm) 💻 A powerful term
-  with gpu support!
-- **Panel** • [Waybar](https://aur.archlinux.org/packages/waybar-hyprland-git)🍧
-  Patched waybar following hyprland faq!
-- **Notify Daemon** • [Dunst](https://github.com/dunst-project/dunst) 🍃
-  Minimalist and functional!
-- **Launcher** • [Rofi](https://github.com/davatorium/rofi) 🚀 Realmente rápido
-  y customizable!
-- **File Manager** • [Ranger](https://github.com/ranger/ranger)🔖 custom!
-- **GUI Basic-IDE** • [NvChad-V2](https://github.com/linuxmobile/nvchad-v2) Rice
-  IDE!
+- **Window Manager** • [Hyprland](https://github.com/hyprwm/Hyprland)
+- **Terminal** • [WezTerm](https://github.com/wez/wezterm) 
+- **Panel** • [Waybar](https://aur.archlinux.org/packages/waybar-hyprland-git)
+- **Notify Daemon** • [Dunst](https://github.com/dunst-project/dunst)
+- **Launcher** • [Rofi](https://github.com/davatorium/rofi)
+- **File Manager** • [Nemo](https://github.com/linuxmint/nemo)
 
 ## 🌸 Setup
 
