@@ -13,5 +13,5 @@ paru -S colord ffmpegthumbnailer gnome-keyring grimblast-git gtk-engine-murrine 
 cd && cd git/ && git clone https://aur.archlinux.org/wezterm-git.git
 cd wezterm-git/ && makepkg -si
 
-# After all is done, place your backed up config files to replace the ones in $HOME/.config.
+# After all is done, place the config files in and replace the ones in $HOME/.config.
 # Can be further automated with rsync
