@@ -16,7 +16,7 @@
 
 ## 🌸 Setup
 
-<img align="center" src="/assets/r-unixporn.webp">
+<img align="center" src="/r-unixporn.webp">
 
 <details>
 <summary><b>OLD SETUP</b></summary>
