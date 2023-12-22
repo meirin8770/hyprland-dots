@@ -13,7 +13,7 @@ paru -S colord ffmpegthumbnailer gnome-keyring grimblast-git gtk-engine-murrine 
 cd && cd git/ && git clone https://aur.archlinux.org/wezterm-git.git
 cd wezterm-git/ && makepkg -si
 
-# After all is done, place the config files in and replace the ones in $HOME/.config.
+# Alternatively, replace the config files in $HOME/.config.
 git clone https://github.com/meirin8770/hyprland-dots $HOME/Downloads/hyprland-dots/
 cd $HOME/Downloads/hyprland-dots/
 rsync -avxHAXP --exclude '.git*' .* ~/
