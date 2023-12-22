@@ -35,8 +35,7 @@
 <summary><b>LONG READ DISCLAIMER</b></summary>
 
 ## INSTALLATION (Arch Based Only)
-## This fork is mostly for my personal use
-##### Run "arch.sh" - add more tools later if needed
+##### This fork is mostly for my personal use. Run "arch.sh" - add more tools later if needed
 
 <div align="left">
 
